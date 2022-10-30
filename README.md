@@ -12,3 +12,24 @@ Now if you are wondering how can a company bear such a high cost when it charges
 
 Our client is an Insurance company that provides insurance for cars to its customers. In this hackathon, you will be closely working with the insurer in understanding the behaviour of the policyholders.
 
+**2) What is in it for YOU?:-**
+
+Prize Money: The Top three winners will get exciting cash prizes.
+AV Points: Build your profile on Analytics Vidhya and compete against the top data scientists in the country.
+AV Courses: Winners will get free access to industry-leading courses in data science.
+Certificate: The top performers will receive certificates from Analytics Vidhya
+Last but not least, the top winner's post on our social media channels.
+
+**3) Prizes:-**
+
+1st Prize: Cash of Rs 25000 + 250 AV Points + Free Certified AI & ML Black Belt Plus worth Rs 65000 (The defined path to becoming a full-stack data scientist)
+
+2nd Prize: Cash of Rs 15000 + AV Points + Free Masters Program worth Rs 20000
+
+3rd Prize: Cash of Rs 10000 + AV Points + Free AV Courses Coupons worth Rs 15000
+
+Note: The winner will get a maximum of 250 AV points for this hackathon; rest of the candidates shall get proportional AV points based on their rank on the private leaderboard.
+
+**4) Link:-**
+
+https://datahack.analyticsvidhya.com/contest/dataverse/
