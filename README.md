@@ -2,7 +2,7 @@
 
 # DataVerse-Insurance_Claim_Prediction-Hackathon-AnalyticsVidhya
 
-***1) About Hackathon:-***
+**1) About Hackathon:-**
 
 An insurance policy is an agreement between a company and a customer by which a company undertakes to provide a guarantee of compensation for specified loss, damage or illness in return for the payment of a specified premium. A premium is a sum of money that the customer needs to pay regularly to an insurance company for this guarantee.
 
