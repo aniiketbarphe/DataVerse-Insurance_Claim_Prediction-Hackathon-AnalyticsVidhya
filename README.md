@@ -32,7 +32,7 @@ You are provided with 3 files - train.csv, test.csv, and sample_submission.csv
 
 The train and test set contains information about different insurance policy holders. The train set includes the target variable is_claim whereas in the test set, you need to predict the target variable is_claim.
 
-![image](https://user-images.githubusercontent.com/84449238/201489606-3dd9072f-faf2-4cba-81f5-88bf0b6ad699.png)
+![Data1](https://user-images.githubusercontent.com/84449238/201489764-d219bd2e-4067-41c6-8cff-66ef705a050d.JPG)
 
 ![Data2](https://user-images.githubusercontent.com/84449238/201489614-cf830727-dac2-4ddd-9994-66b9deeaa769.JPG)
 
