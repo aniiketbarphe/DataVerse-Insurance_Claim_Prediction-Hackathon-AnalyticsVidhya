@@ -12,24 +12,45 @@ Now if you are wondering how can a company bear such a high cost when it charges
 
 Our client is an Insurance company that provides insurance for cars to its customers. In this hackathon, you will be closely working with the insurer in understanding the behaviour of the policyholders.
 
-**2) What is in it for YOU?:-**
+**2) Problem Statement:-**
 
-Prize Money: The Top three winners will get exciting cash prizes.
-AV Points: Build your profile on Analytics Vidhya and compete against the top data scientists in the country.
-AV Courses: Winners will get free access to industry-leading courses in data science.
-Certificate: The top performers will receive certificates from Analytics Vidhya
-Last but not least, the top winner's post on our social media channels.
+CarIns is a startup that provides insurance for cars. It is one of the best car insurance brands known for the highest claim settlement ratio. It was launched back in Oct 2020 and acquired its initial policyholders by providing a hassle-free claim process, instant policy issuance, and claim settlements at minimum coverages.
 
-**3) Prizes:-**
+As it's a fast growing startup, the company would like to optimize the cost of the insurance by identifying the policyholders who are more likely to claim in the next 6 months. 
 
-1st Prize: Cash of Rs 25000 + 250 AV Points + Free Certified AI & ML Black Belt Plus worth Rs 65000 (The defined path to becoming a full-stack data scientist)
+Now the company would like to use Data Science to identify the policyholders whose chances of filing a claim are high in the next 6 months. The company challenges the Data Science community to build a high-performance algorithm to predict if the policyholder will file a claim in the next 6 months or not based on the set of car and policy features.
 
-2nd Prize: Cash of Rs 15000 + AV Points + Free Masters Program worth Rs 20000
+**3) About the Dataset:-**
 
-3rd Prize: Cash of Rs 10000 + AV Points + Free AV Courses Coupons worth Rs 15000
+You are provided with information on policyholders containing the attributes like policy tenure, age of the car, age of the car owner, population density of the city, make and model of the car, power, engine type, etc and the target variable indicating whether the policyholder files a claim in the next 6 months or not.
 
-Note: The winner will get a maximum of 250 AV points for this hackathon; rest of the candidates shall get proportional AV points based on their rank on the private leaderboard.
+**3.1) Data Dictionary:-**
 
-**4) Link:-**
+You are provided with 3 files - train.csv, test.csv, and sample_submission.csv
 
-https://datahack.analyticsvidhya.com/contest/dataverse/
+**3.2) Train and Test Set:-**
+
+The train and test set contains information about different insurance policy holders. The train set includes the target variable is_claim whereas in the test set, you need to predict the target variable is_claim.
+
+![image](https://user-images.githubusercontent.com/84449238/201489606-3dd9072f-faf2-4cba-81f5-88bf0b6ad699.png)
+
+![Data2](https://user-images.githubusercontent.com/84449238/201489614-cf830727-dac2-4ddd-9994-66b9deeaa769.JPG)
+
+**3.3) Submission File Format:-**
+
+The solution file should follow a format similar to that of the sample submission file. sample_submission.csv contains 2 variables - policy_id and is_claim.
+
+![Sub](https://user-images.githubusercontent.com/84449238/201489666-eea7f28b-c0fa-4762-99a0-541b441b3ef7.JPG)
+
+**4) Evaluation metric:-**
+
+The evaluation metric for this hackathon would be F1 score.
+
+**5) Public and Private Split:-**
+
+Test data is further divided into Public (40%) and Private (60%) data.
+Your initial responses will be checked and scored on the Public data. The final rankings would be based on your private score which will be published once the competition is over
+
+**6) Link:-**
+
+https://datahack.analyticsvidhya.com/contest/dataverse/#ProblemStatement
