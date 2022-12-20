@@ -51,6 +51,24 @@ The evaluation metric for this hackathon would be F1 score.
 Test data is further divided into Public (40%) and Private (60%) data.
 Your initial responses will be checked and scored on the Public data. The final rankings would be based on your private score which will be published once the competition is over
 
-**6) Link:-**
+# Summary
 
-https://datahack.analyticsvidhya.com/contest/dataverse/#ProblemStatement
+**a) Best Submission Score:-**
+
+**1) Public Leaderboard :-** 0.1496102590
+
+**2) Private Leaderboard :-** 0.1476913590
+
+**b) Best Model:-** Ensemble Technique (Random Forest Classifier + KNeighbors Classifier + XGB Classifier)
+
+![Public-Leaderboard](https://user-images.githubusercontent.com/84449238/208732143-56983132-38b9-4107-a5ce-85d0a4492207.JPG)
+
+![Private-Leaderboard](https://user-images.githubusercontent.com/84449238/208732190-42243690-375e-4adf-be5b-a2133948c538.JPG)
+
+**c) Competition Link:-** https://datahack.analyticsvidhya.com/contest/dataverse/True/#LeaderBoard
+
+**d) Rank Scored:-**
+
+a) **192** out of **2229** registered participants (Public Leaderboard)
+
+b) **204** out of **2229** registered participants (Private Leaderboard)
